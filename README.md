@@ -1,7 +1,7 @@
 ### Hey! I'm Ashwini Chavhan 👋
 
--👀 I’m interested in Learning new programming languages.
+-👀 I’m addicted to learning and growing everyday.
 
--🔭 I’m currently working on Web Development
+-🔭 I love programming and books.
 
--🌱 I’m currently learning Python and Django
+-🌱 I’m currently learning Python and Django.
